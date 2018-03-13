@@ -22,7 +22,8 @@
   },
   "homepage": "https://github.com/erasmo-marin/styled-jsx-plugin-less#readme",
   "peerDependencies": {
-    "less": "^2.3.1"
+    "less": "^2.3.1",
+    "styled-jsx": "^2.2.5"
   },
   "devDependencies": {
     "less": "^3.0.0-alpha.3",
